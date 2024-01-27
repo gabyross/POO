@@ -1,0 +1,19 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨çŠà8“Ô—Á®1
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼Î×Äùÿÿÿÿ8ç¡˜Á®1
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(È«r8•¸˜Á®1
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(õŠ“Æşÿÿÿÿ8¶ÿ˜Á®1
+8
+java:S1116"Remove this empty statement.(È«r8´¸˜Á®1
+>
+java:S1116"Remove this empty statement.(õŠ“Æşÿÿÿÿ8äÿ˜Á®1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øõ§é8©……¿®1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¾â¶8¬……¿®1
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(½úÕ8±……¿®1
+U	java:S106."9Replace this use of System.out or System.err by a logger.(øÄÀİ8ˆ°¡¿®1
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(¿‡ìõ8ÕÊ¤¿®1
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(·¾Ğùûÿÿÿÿ8ÖÊ¤¿®1
